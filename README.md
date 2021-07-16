@@ -2,4 +2,4 @@
 
 This is a test template project with smooth scrolling and custom css styling. Made with React.
 
-It's cool I guess
+It's VERY cool! 😎
